@@ -2,8 +2,9 @@
 
 ## Setup 
 
-1. Run the command `chmod +x setup.sh`
-2. Then run `rclone config`
+1. Install [rclone](https://rclone.org/install/)
+2. Run the command `chmod +x setup.sh`
+3. Then run `rclone config`
     1. This will ask you to make a new remote, press n and enter.
     2. Name the remote "SDK-folder" and hit enter
     3. For storage, type the number corresponding with Google Drive Storage and hit enter
